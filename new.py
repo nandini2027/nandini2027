@@ -1,6 +1,5 @@
 import numpy as np
 import cv2 as cv
-from numpy import asarray
 import random as r
 from pprint import pprint
 
